@@ -1,8 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package CodeKata_Set2;
+
 
 import java.util.Scanner;
 
