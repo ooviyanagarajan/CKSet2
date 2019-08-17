@@ -1,15 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package CodeKata_Set2;
 
-import java.util.Scanner;
-
-/**
- *
- * @author crm systems
- */
 public class AmstrongInterval {
         public static void main(String[]args){
        int n1,n2,rem,orig;
