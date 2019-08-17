@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class factorial {
+public class Factorial {
      public static void main(String[]args){
      int N,factor=1;
      System.out.println("Enter a number: ");
